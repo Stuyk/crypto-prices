@@ -32,7 +32,15 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: "Update crypto prices for $(date -u '+%Y-%m-%d %H:%M:%S')"
-        file_pattern: crypto_prices.json
+        file_pattern: prices.json
+
+    - name: Create and push initial tag
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        TAG_NAME=$(date -u '+%Y.%m.%d.%H')
+        git tag $TAG_NAME
+        git push origin $TAG_NAME
 
     - name: Create Release
       id: create_release
@@ -45,12 +53,12 @@ jobs:
         draft: false
         prerelease: false
 
-    - name: Upload crypto_prices.json to Release
+    - name: Release Asset
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./crypto_prices.json
-        asset_name: crypto_prices.json
+        asset_path: ./prices.json
+        asset_name: prices.json
         asset_content_type: application/json
