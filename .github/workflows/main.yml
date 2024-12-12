@@ -33,7 +33,7 @@ jobs:
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: "Updated Pricing"
-        file_pattern: prices.json
+        file_pattern: dist/prices.json
 
     - name: Create and push initial tag
       env:
