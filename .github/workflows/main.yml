@@ -31,7 +31,7 @@ jobs:
     - name: Commit and push crypto_prices.json
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: "Update crypto prices for $(date -u '+%Y-%m-%d %H:%M:%S')"
+        commit_message: "Updated Pricing"
         file_pattern: prices.json
 
     - name: Create and push initial tag
@@ -41,24 +41,3 @@ jobs:
         TAG_NAME=$(date -u '+%Y.%m.%d.%H')
         git tag $TAG_NAME
         git push origin $TAG_NAME
-
-    - name: Create Release
-      id: create_release
-      uses: actions/create-release@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        tag_name: "$(date -u '+%Y.%m.%d.%H')"
-        release_name: "Crypto Prices - $(date -u '+%Y.%m.%d %H:%M')"
-        draft: false
-        prerelease: false
-
-    - name: Release Asset
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./prices.json
-        asset_name: prices.json
-        asset_content_type: application/json
