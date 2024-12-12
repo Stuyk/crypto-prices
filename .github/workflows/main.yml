@@ -44,3 +44,11 @@ jobs:
         TAG_NAME=$(date -u '+%Y.%m.%d.%H')
         git tag $TAG_NAME
         git push origin $TAG_NAME
+
+    - name: Create GitHub release
+      uses: softprops/action-gh-release@v2
+      with:
+        files: dist/prices.json
+        tag_name: $(date -u '+%Y.%m.%d.%H')
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
