@@ -40,8 +40,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: "$(date -u '+%Y-%m-%d-%H')"
-        release_name: "Crypto Prices - $(date -u '+%Y-%m-%d %H:%M')"
+        tag_name: "$(date -u '+%Y.%m.%d.%H')"
+        release_name: "Crypto Prices - $(date -u '+%Y.%m.%d %H:%M')"
         draft: false
         prerelease: false
 
