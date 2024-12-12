@@ -26,7 +26,7 @@ async function update() {
             last_updated: coin.last_updated
         }));
 
-        fs.writeFileSync('prices.json', JSON.stringify(parsedData, null, 2));
+        fs.writeFileSync('dist/prices.json', JSON.stringify(parsedData, null, 2));
         console.log('Crypto prices successfully saved to crypto_prices.json');
     } catch (error) {
         console.error('Error fetching crypto prices:', error.message);
