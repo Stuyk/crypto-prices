@@ -8,4 +8,4 @@ Pushes it to the repo.
 
 Tags the repo.
 
-Tags are as follows: `year-month-day-hour`
+Tags are as follows: `year.month.day.hour`
