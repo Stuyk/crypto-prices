@@ -41,7 +41,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        TAG_NAME=v$(date -u '+%Y.%m.%d.%H')
+        TAG_NAME=v$(date -u '+%Y.%m%d%H')
         git tag $TAG_NAME
         git push origin $TAG_NAME
 
@@ -49,6 +49,6 @@ jobs:
       uses: softprops/action-gh-release@v2
       with:
         files: dist/prices.json
-        tag_name: v$(date -u '+%Y.%m.%d.%H')
+        tag_name: v$(date -u '+%Y.%m%d%H')
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
