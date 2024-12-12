@@ -1,0 +1,6002 @@
+[
+  {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "price": 99773.55277759001,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "price": 3856.661209256717,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Tether USDt",
+    "symbol": "USDT",
+    "price": 0.999945099591792,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "XRP",
+    "symbol": "XRP",
+    "price": 2.345678276109566,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Solana",
+    "symbol": "SOL",
+    "price": 226.88345342203544,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "BNB",
+    "symbol": "BNB",
+    "price": 703.0822605061325,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "price": 0.40385943706101746,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "price": 0.999651461559651,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Cardano",
+    "symbol": "ADA",
+    "price": 1.1182980299297518,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "TRON",
+    "symbol": "TRX",
+    "price": 0.29626975503773806,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "price": 52.18277521029433,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "price": 28.12630060216598,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Shiba Inu",
+    "symbol": "SHIB",
+    "price": 0.000027926317140451436,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Toncoin",
+    "symbol": "TON",
+    "price": 6.3013236221137765,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "price": 8.99529666786595,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Sui",
+    "symbol": "SUI",
+    "price": 4.581975276665901,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Stellar",
+    "symbol": "XLM",
+    "price": 0.4223819201837118,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Hedera",
+    "symbol": "HBAR",
+    "price": 0.29013552083427907,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "price": 540.9213770014946,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "price": 17.564253633591925,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "price": 0.000023411868494819776,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "price": 118.93281490525277,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "UNUS SED LEO",
+    "symbol": "LEO",
+    "price": 9.459060887573076,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "NEAR Protocol",
+    "symbol": "NEAR",
+    "price": 6.877121082858819,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Aptos",
+    "symbol": "APT",
+    "price": 13.515611846120924,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Internet Computer",
+    "symbol": "ICP",
+    "price": 13.30292125027136,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ethena USDe",
+    "symbol": "USDe",
+    "price": 1.0014441429696705,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Aave",
+    "symbol": "AAVE",
+    "price": 362.54815239640396,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Dai",
+    "symbol": "DAI",
+    "price": 0.9999099190440849,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "POL (ex-MATIC)",
+    "symbol": "POL",
+    "price": 0.620892249577441,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ethereum Classic",
+    "symbol": "ETC",
+    "price": 33.521043630019236,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Render",
+    "symbol": "RENDER",
+    "price": 9.452247815324393,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Cronos",
+    "symbol": "CRO",
+    "price": 0.18385934786996147,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "VeChain",
+    "symbol": "VET",
+    "price": 0.05971437486027447,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Bitget Token",
+    "symbol": "BGB",
+    "price": 3.1230187785135857,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Artificial Superintelligence Alliance",
+    "symbol": "FET",
+    "price": 1.7713637132586406,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Mantle",
+    "symbol": "MNT",
+    "price": 1.2654297073409675,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "price": 576.969669156057,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "price": 1.0166706611201262,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Kaspa",
+    "symbol": "KAS",
+    "price": 0.16136353756855756,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Filecoin",
+    "symbol": "FIL",
+    "price": 6.659903461974568,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "MANTRA",
+    "symbol": "OM",
+    "price": 4.033731399750225,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Monero",
+    "symbol": "XMR",
+    "price": 196.8593239842043,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Algorand",
+    "symbol": "ALGO",
+    "price": 0.4260741090420148,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Stacks",
+    "symbol": "STX",
+    "price": 2.331504813663685,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Cosmos",
+    "symbol": "ATOM",
+    "price": 8.862245075458642,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Fantom",
+    "symbol": "FTM",
+    "price": 1.2275702420062162,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "OKB",
+    "symbol": "OKB",
+    "price": 55.051516103911744,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Immutable",
+    "symbol": "IMX",
+    "price": 1.9369012854763248,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Celestia",
+    "symbol": "TIA",
+    "price": 7.171055076643222,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Optimism",
+    "symbol": "OP",
+    "price": 2.4964644622260823,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ethena",
+    "symbol": "ENA",
+    "price": 1.0425090520909273,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "dogwifhat",
+    "symbol": "WIF",
+    "price": 2.9512135882146864,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Bonk",
+    "symbol": "BONK",
+    "price": 0.000037911127468326764,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Injective",
+    "symbol": "INJ",
+    "price": 28.833728575561697,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "The Graph",
+    "symbol": "GRT",
+    "price": 0.28301507113994,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Theta Network",
+    "symbol": "THETA",
+    "price": 2.6471314440853386,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ondo",
+    "symbol": "ONDO",
+    "price": 1.772303550784578,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Sei",
+    "symbol": "SEI",
+    "price": 0.606475420293361,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Worldcoin",
+    "symbol": "WLD",
+    "price": 3.0400768642334524,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "FLOKI",
+    "symbol": "FLOKI",
+    "price": 0.0002368908269517924,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "THORChain",
+    "symbol": "RUNE",
+    "price": 6.306737030858343,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "JasmyCoin",
+    "symbol": "JASMY",
+    "price": 0.04164956213972749,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Virtuals Protocol",
+    "symbol": "VIRTUAL",
+    "price": 2.014188112496048,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Lido DAO",
+    "symbol": "LDO",
+    "price": 2.179727795261608,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "The Sandbox",
+    "symbol": "SAND",
+    "price": 0.7700199439947726,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Gala",
+    "symbol": "GALA",
+    "price": 0.050436386935484336,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Maker",
+    "symbol": "MKR",
+    "price": 2012.7307547108858,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Brett (Based)",
+    "symbol": "BRETT",
+    "price": 0.17556962021742867,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "price": 0.9995212480845157,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Beam",
+    "symbol": "BEAM",
+    "price": 0.034593739292425665,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "EOS",
+    "symbol": "EOS",
+    "price": 1.0915124938075424,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Quant",
+    "symbol": "QNT",
+    "price": 137.942776059947,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Pyth Network",
+    "symbol": "PYTH",
+    "price": 0.44676802905507473,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Flare",
+    "symbol": "FLR",
+    "price": 0.02950220320742152,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "KuCoin Token",
+    "symbol": "KCS",
+    "price": 13.400641553331486,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Kaia",
+    "symbol": "KAIA",
+    "price": 0.27143574719766467,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Aerodrome Finance",
+    "symbol": "AERO",
+    "price": 2.1806967087555433,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Raydium",
+    "symbol": "RAY",
+    "price": 5.298672540302933,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Jupiter",
+    "symbol": "JUP",
+    "price": 1.1324504027148448,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Flow",
+    "symbol": "FLOW",
+    "price": 0.9834609746494448,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Arweave",
+    "symbol": "AR",
+    "price": 22.712680525156255,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Tezos",
+    "symbol": "XTZ",
+    "price": 1.4616397366249936,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Starknet",
+    "symbol": "STRK",
+    "price": 0.6580432280454059,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "IOTA",
+    "symbol": "IOTA",
+    "price": 0.4133469643101749,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "price": 1.1568760861737326,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Movement",
+    "symbol": "MOVE",
+    "price": 0.6386381846687251,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "dYdX (Native)",
+    "symbol": "DYDX",
+    "price": 2.22007654995558,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Helium",
+    "symbol": "HNT",
+    "price": 8.049819622394553,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ethereum Name Service",
+    "symbol": "ENS",
+    "price": 40.34606246988502,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Bitcoin SV",
+    "symbol": "BSV",
+    "price": 66.9212966153655,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "BitTorrent [New]",
+    "symbol": "BTT",
+    "price": 0.0000013555877362305706,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "MultiversX",
+    "symbol": "EGLD",
+    "price": 47.385518925373894,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Neo",
+    "symbol": "NEO",
+    "price": 18.368116840070847,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "XDC Network",
+    "symbol": "XDC",
+    "price": 0.08590476207063523,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "AIOZ Network",
+    "symbol": "AIOZ",
+    "price": 1.1135253889132932,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Core",
+    "symbol": "CORE",
+    "price": 1.3493209269775266,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Peanut the Squirrel",
+    "symbol": "PNUT",
+    "price": 1.2383642224198503,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Decentraland",
+    "symbol": "MANA",
+    "price": 0.6351037594300957,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Axie Infinity",
+    "symbol": "AXS",
+    "price": 7.875401164201643,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "price": 0.6209177355386966,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Popcat (SOL)",
+    "symbol": "POPCAT",
+    "price": 1.222717183924695,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "price": 1.5772666614464959,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Mog Coin",
+    "symbol": "MOG",
+    "price": 0.0000030323500195212387,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "GateToken",
+    "symbol": "GT",
+    "price": 12.558800145194372,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Chiliz",
+    "symbol": "CHZ",
+    "price": 0.11605458515606558,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Synthetix",
+    "symbol": "SNX",
+    "price": 3.111841480052383,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Conflux",
+    "symbol": "CFX",
+    "price": 0.2165072375109276,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "EigenLayer",
+    "symbol": "EIGEN",
+    "price": 4.848305954897532,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "PancakeSwap",
+    "symbol": "CAKE",
+    "price": 3.4969364636833085,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "SuperVerse",
+    "symbol": "SUPER",
+    "price": 2.057758599309479,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "FTX Token",
+    "symbol": "FTT",
+    "price": 3.0123057683735186,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Akash Network",
+    "symbol": "AKT",
+    "price": 3.945644832701218,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Compound",
+    "symbol": "COMP",
+    "price": 110.56884971985687,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "price": 5.919313876746755,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Nexo",
+    "symbol": "NEXO",
+    "price": 1.4970089355290812,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Zcash",
+    "symbol": "ZEC",
+    "price": 59.075331601216604,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Mina",
+    "symbol": "MINA",
+    "price": 0.8000960086464334,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Wormhole",
+    "symbol": "W",
+    "price": 0.3314177349239583,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "eCash",
+    "symbol": "XEC",
+    "price": 0.000044830673851147634,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ZKsync",
+    "symbol": "ZK",
+    "price": 0.23300468569410943,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Notcoin",
+    "symbol": "NOT",
+    "price": 0.00827214976163908,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Baby Doge Coin",
+    "symbol": "BabyDoge",
+    "price": 4.997557146237519e-9,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Axelar",
+    "symbol": "AXL",
+    "price": 0.9248800260187948,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Oasis",
+    "symbol": "ROSE",
+    "price": 0.11356182086483399,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Blur",
+    "symbol": "BLUR",
+    "price": 0.3865704330415427,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ronin",
+    "symbol": "RON",
+    "price": 2.1432997295644514,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Amp",
+    "symbol": "AMP",
+    "price": 0.009716432083560237,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Turbo",
+    "symbol": "TURBO",
+    "price": 0.011853393106387377,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Reserve Rights",
+    "symbol": "RSR",
+    "price": 0.0144018426478909,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ORDI",
+    "symbol": "ORDI",
+    "price": 36.347079673391015,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Gnosis",
+    "symbol": "GNO",
+    "price": 288.6577876769473,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "USDD",
+    "symbol": "USDD",
+    "price": 0.9994680151528922,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Terra Classic",
+    "symbol": "LUNC",
+    "price": 0.0001337647079292199,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Grass",
+    "symbol": "GRASS",
+    "price": 3.015304133793545,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "cat in a dogs world",
+    "symbol": "MEW",
+    "price": 0.008177161874958585,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "price": 6.604306574311764,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Goatseus Maximus",
+    "symbol": "GOAT",
+    "price": 0.7070177138092691,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "1inch Network",
+    "symbol": "1INCH",
+    "price": 0.5002076123034077,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Neiro (First Neiro On Ethereum)",
+    "symbol": "NEIRO",
+    "price": 0.0016576574261100503,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Tether Gold",
+    "symbol": "XAUt",
+    "price": 2702.111606372072,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Nervos Network",
+    "symbol": "CKB",
+    "price": 0.014442403761316242,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "SPX6900",
+    "symbol": "SPX",
+    "price": 0.6910893689426616,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Kava",
+    "symbol": "KAVA",
+    "price": 0.5862941350655085,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Livepeer",
+    "symbol": "LPT",
+    "price": 17.286546051039736,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Gigachad",
+    "symbol": "GIGA",
+    "price": 0.06683832010118103,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Kusama",
+    "symbol": "KSM",
+    "price": 38.88459686104145,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "APENFT",
+    "symbol": "NFT",
+    "price": 6.113708532068015e-7,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Convex Finance",
+    "symbol": "CVX",
+    "price": 6.289670264693429,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Safe",
+    "symbol": "SAFE",
+    "price": 1.2995675164762788,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Dash",
+    "symbol": "DASH",
+    "price": 48.383270162929485,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Creditcoin",
+    "symbol": "CTC",
+    "price": 1.407255329662293,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "BOOK OF MEME",
+    "symbol": "BOME",
+    "price": 0.00843202967209462,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "SushiSwap",
+    "symbol": "SUSHI",
+    "price": 2.201638822030992,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Enjin Coin",
+    "symbol": "ENJ",
+    "price": 0.3240093126330012,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Holo",
+    "symbol": "HOT",
+    "price": 0.0032903124405701052,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Magic Eden",
+    "symbol": "ME",
+    "price": 4.384583883161908,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ether.fi",
+    "symbol": "ETHFI",
+    "price": 2.705191689028768,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "DeXe",
+    "symbol": "DEXE",
+    "price": 9.847811628329355,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Trust Wallet Token",
+    "symbol": "TWT",
+    "price": 1.347422615213476,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Astar",
+    "symbol": "ASTR",
+    "price": 0.07557710651586509,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Theta Fuel",
+    "symbol": "TFUEL",
+    "price": 0.08124433397803227,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "WOO",
+    "symbol": "WOO",
+    "price": 0.2933765861337873,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Zilliqa",
+    "symbol": "ZIL",
+    "price": 0.028193304907285235,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "0x Protocol",
+    "symbol": "ZRX",
+    "price": 0.6344531783386628,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "GMT",
+    "symbol": "GMT",
+    "price": 0.20517204595004762,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Echelon Prime",
+    "symbol": "PRIME",
+    "price": 14.92596499600174,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "io.net",
+    "symbol": "IO",
+    "price": 4.2386238836448955,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "PAX Gold",
+    "symbol": "PAXG",
+    "price": 2683.35486431769,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Act I : The AI Prophecy",
+    "symbol": "ACT",
+    "price": 0.5496284699077956,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Jito",
+    "symbol": "JTO",
+    "price": 3.8656845715608266,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Harmony",
+    "symbol": "ONE",
+    "price": 0.03533254511503785,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "price": 1.0032878804315344,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "SATS (Ordinals)",
+    "symbol": "SATS",
+    "price": 2.3494418698562684e-7,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "price": 0.9993332895735209,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Celo",
+    "symbol": "CELO",
+    "price": 0.8701109938921514,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "dYdX (ethDYDX)",
+    "symbol": "ETHDYDX",
+    "price": 2.2175885050211224,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ankr",
+    "symbol": "ANKR",
+    "price": 0.0474742733331704,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "OriginTrail",
+    "symbol": "TRAC",
+    "price": 1.1378233101367106,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "EthereumPoW",
+    "symbol": "ETHW",
+    "price": 4.358292856094945,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Memecoin",
+    "symbol": "MEME",
+    "price": 0.0142091896527168,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Arkham",
+    "symbol": "ARKM",
+    "price": 2.057576452880283,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "JUST",
+    "symbol": "JST",
+    "price": 0.04638045522618012,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Aevo",
+    "symbol": "AEVO",
+    "price": 0.5066763764635127,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "IoTeX",
+    "symbol": "IOTX",
+    "price": 0.048227853665985136,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Osmosis",
+    "symbol": "OSMO",
+    "price": 0.6509622478830202,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Dymension",
+    "symbol": "DYM",
+    "price": 2.068854232948544,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Bitcoin Gold",
+    "symbol": "BTG",
+    "price": 25.23018089420685,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Qtum",
+    "symbol": "QTUM",
+    "price": 4.1639928043329,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "SPACE ID",
+    "symbol": "ID",
+    "price": 0.5478678211597571,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "price": 0.29117328962266525,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Aethir",
+    "symbol": "ATH",
+    "price": 0.0832608152735415,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Golem",
+    "symbol": "GLM",
+    "price": 0.43418572576963566,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ZetaChain",
+    "symbol": "ZETA",
+    "price": 0.7419115372033418,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Just a chill guy",
+    "symbol": "CHILLGUY",
+    "price": 0.42623540350127287,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Manta Network",
+    "symbol": "MANTA",
+    "price": 1.0987746664455031,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "WEMIX",
+    "symbol": "WEMIX",
+    "price": 1.0190030635990652,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Mask Network",
+    "symbol": "MASK",
+    "price": 4.209394526956634,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Kadena",
+    "symbol": "KDA",
+    "price": 1.3716536669465826,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ravencoin",
+    "symbol": "RVN",
+    "price": 0.027932420296679656,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Hyperliquid",
+    "symbol": "HYPE",
+    "price": 17.334182170692962,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Zeebu",
+    "symbol": "ZBU",
+    "price": 4.244282779613455,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Fellaz",
+    "symbol": "FLZ",
+    "price": 2.2059846361803954,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Fasttoken",
+    "symbol": "FTN",
+    "price": 3.2364239793391345,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ai16z",
+    "symbol": "AI16Z",
+    "price": 0.824564615925926,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Dog (Bitcoin)",
+    "symbol": "DOG",
+    "price": 0.008966840672743786,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Usual USD",
+    "symbol": "USD0",
+    "price": 0.9999641552700574,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Chintai",
+    "symbol": "CHEX",
+    "price": 0.6998939346038656,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Frax",
+    "symbol": "FRAX",
+    "price": 0.9959011330650601,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "price": 0.007016644087278097,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "ASTA",
+    "symbol": "ASTA",
+    "price": 0.2886473707726918,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Beldex",
+    "symbol": "BDX",
+    "price": 0.07842606483616418,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "PepeCoin",
+    "symbol": "PEPECOIN",
+    "price": 4.12383961740128,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Snek",
+    "symbol": "SNEK",
+    "price": 0.007015718751137103,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Cheelee",
+    "symbol": "CHEEL",
+    "price": 9.089499091900267,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Fartcoin",
+    "symbol": "FARTCOIN",
+    "price": 0.5120203109250484,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Meta Games Coin",
+    "symbol": "MGC",
+    "price": 0.45684681404369304,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Qubic",
+    "symbol": "QUBIC",
+    "price": 0.000004024969873116921,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "VerusCoin",
+    "symbol": "VRSC",
+    "price": 5.991617173658751,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ondo US Dollar Yield",
+    "symbol": "USDY",
+    "price": 1.0693561245325383,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Aleo",
+    "symbol": "ALEO",
+    "price": 1.5809667662635842,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Destra Network",
+    "symbol": "DSYNC",
+    "price": 0.4327708639445688,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Buggyra Coin Zero",
+    "symbol": "BCZERO",
+    "price": 0.20222880041587588,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "GMX",
+    "symbol": "GMX",
+    "price": 41.11220607538537,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Siacoin",
+    "symbol": "SC",
+    "price": 0.0069716267826841795,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Terra",
+    "symbol": "LUNA",
+    "price": 0.5662732627017424,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Altlayer",
+    "symbol": "ALT",
+    "price": 0.1736679367319953,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "aelf",
+    "symbol": "ELF",
+    "price": 0.5356706775504515,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Moo Deng (moodengsol.com)",
+    "symbol": "MOODENG",
+    "price": 0.3931646794858753,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Zerebro",
+    "symbol": "ZEREBRO",
+    "price": 0.3972563375334588,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "DOGS",
+    "symbol": "DOGS",
+    "price": 0.0007437098973638083,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "price": 11350.724653963649,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Gas",
+    "symbol": "GAS",
+    "price": 5.860324014604598,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "XYO",
+    "symbol": "XYO",
+    "price": 0.02818372296608195,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "SKALE",
+    "symbol": "SKL",
+    "price": 0.06836909459779,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Radix",
+    "symbol": "XRD",
+    "price": 0.03519438089768573,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Loopring",
+    "symbol": "LRC",
+    "price": 0.2732846341605222,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Chia",
+    "symbol": "XCH",
+    "price": 26.38023761497408,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Orbler",
+    "symbol": "ORBR",
+    "price": 0.35792461559542826,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Decred",
+    "symbol": "DCR",
+    "price": 21.97004336705463,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "SwissBorg",
+    "symbol": "BORG",
+    "price": 0.36663123923338775,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "MX Token",
+    "symbol": "MX",
+    "price": 3.721420943007081,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "0x0.ai",
+    "symbol": "0x0",
+    "price": 0.41039347538039234,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Morpho",
+    "symbol": "MORPHO",
+    "price": 2.339767888327759,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "SafePal",
+    "symbol": "SFP",
+    "price": 0.7181514161273161,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Biconomy",
+    "symbol": "BICO",
+    "price": 0.38747689959918086,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Wilder World",
+    "symbol": "WILD",
+    "price": 0.9329162711705001,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Metis",
+    "symbol": "METIS",
+    "price": 56.48834962692959,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ssv.network",
+    "symbol": "SSV",
+    "price": 29.73232018043429,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Drift",
+    "symbol": "DRIFT",
+    "price": 1.284980614484929,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Clearpool",
+    "symbol": "CPOOL",
+    "price": 0.4614776717404634,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Threshold",
+    "symbol": "T",
+    "price": 0.03325995262959526,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "price": 3.885546731869138,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Tribe",
+    "symbol": "TRIBE",
+    "price": 0.6077985008201531,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Rocket Pool",
+    "symbol": "RPL",
+    "price": 15.675001587774668,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "MimbleWimbleCoin",
+    "symbol": "MWC",
+    "price": 29.766075606644286,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Polymesh",
+    "symbol": "POLYX",
+    "price": 0.35457704983559174,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Band Protocol",
+    "symbol": "BAND",
+    "price": 2.0646031326107495,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ANDY (ETH)",
+    "symbol": "ANDY",
+    "price": 0.00031715385214540814,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "UMA",
+    "symbol": "UMA",
+    "price": 3.7982008748714384,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Avail",
+    "symbol": "AVAIL",
+    "price": 0.1653049206220175,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Illuvium",
+    "symbol": "ILV",
+    "price": 59.072291983107085,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Rollbit Coin",
+    "symbol": "RLB",
+    "price": 0.1345573820809001,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "TARS AI",
+    "symbol": "TAI",
+    "price": 0.4490553959821586,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "COTI",
+    "symbol": "COTI",
+    "price": 0.1712684785987614,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "VeThor Token",
+    "symbol": "VTHO",
+    "price": 0.003653346525883759,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Moonbeam",
+    "symbol": "GLMR",
+    "price": 0.32732858231770123,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ConstitutionDAO",
+    "symbol": "PEOPLE",
+    "price": 0.0594898615551308,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Hivemapper",
+    "symbol": "HONEY",
+    "price": 0.0965723987155566,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Gravity",
+    "symbol": "G",
+    "price": 0.03548987104067681,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "World Mobile Token",
+    "symbol": "WMTX",
+    "price": 0.5955332284337072,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Bazaars",
+    "symbol": "BZR",
+    "price": 25.07024465786886,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Simon's Cat",
+    "symbol": "CAT",
+    "price": 0.00004308841330052074,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Yield Guild Games",
+    "symbol": "YGG",
+    "price": 0.69603210190341,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "NEM",
+    "symbol": "XEM",
+    "price": 0.03200871821799072,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Flux",
+    "symbol": "FLUX",
+    "price": 0.7556949805117981,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Xai",
+    "symbol": "XAI",
+    "price": 0.3344507663015776,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Orca",
+    "symbol": "ORCA",
+    "price": 5.19037752238288,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Shiro Neko",
+    "symbol": "SHIRO",
+    "price": 2.763599618655294e-7,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Pixels",
+    "symbol": "PIXEL",
+    "price": 0.23874643393971334,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Chromia",
+    "symbol": "CHR",
+    "price": 0.3306089029791729,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ponke",
+    "symbol": "PONKE",
+    "price": 0.4886862042557571,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Vanar Chain",
+    "symbol": "VANRY",
+    "price": 0.154712312063021,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Audius",
+    "symbol": "AUDIO",
+    "price": 0.21030077311946382,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Alchemy Pay",
+    "symbol": "ACH",
+    "price": 0.03177331148039004,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Casper",
+    "symbol": "CSPR",
+    "price": 0.021151928473246182,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Blast",
+    "symbol": "BLAST",
+    "price": 0.0114907749651558,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Across Protocol",
+    "symbol": "ACX",
+    "price": 0.8039631887836114,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Nano",
+    "symbol": "XNO",
+    "price": 1.994806193471376,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Open Campus",
+    "symbol": "EDU",
+    "price": 0.6596243668968966,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ontology",
+    "symbol": "ONT",
+    "price": 0.2890012052626353,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "DigiByte",
+    "symbol": "DGB",
+    "price": 0.014882347806503023,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Apu Apustaja",
+    "symbol": "APU",
+    "price": 0.0008069765485307475,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Cetus Protocol",
+    "symbol": "CETUS",
+    "price": 0.4129847756111581,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "HarryPotterObamaSonic10Inu (ERC-20)",
+    "symbol": "BITCOIN",
+    "price": 0.256907540915405,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Verge",
+    "symbol": "XVG",
+    "price": 0.015520177025973995,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Sun [New]",
+    "symbol": "SUN",
+    "price": 0.026056138306611177,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "PAAL AI",
+    "symbol": "PAAL",
+    "price": 0.30867235915980723,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "LCX",
+    "symbol": "LCX",
+    "price": 0.3268320696696921,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Metaplex",
+    "symbol": "MPLX",
+    "price": 0.33308071791307536,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Horizen",
+    "symbol": "ZEN",
+    "price": 15.520904866060983,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "BasedAI",
+    "symbol": "BASEDAI",
+    "price": 6.986934720685605,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Solar",
+    "symbol": "SXP",
+    "price": 0.3856857047408917,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Big Time",
+    "symbol": "BIGTIME",
+    "price": 0.1779691452142039,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ICON",
+    "symbol": "ICX",
+    "price": 0.23159649208102318,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "DeepBook Protocol",
+    "symbol": "DEEP",
+    "price": 0.09498638217065498,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Storj",
+    "symbol": "STORJ",
+    "price": 0.5907660342314317,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Non-Playable Coin",
+    "symbol": "NPC",
+    "price": 0.03231023978832736,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Liquity",
+    "symbol": "LQTY",
+    "price": 2.4743658953689636,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Waves",
+    "symbol": "WAVES",
+    "price": 1.994329149071525,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Saga",
+    "symbol": "SAGA",
+    "price": 2.1647165657659633,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Hamster Kombat",
+    "symbol": "HMSTR",
+    "price": 0.0035932787890960933,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "VVS Finance",
+    "symbol": "VVS",
+    "price": 0.0000048353501222076675,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "GoМining",
+    "symbol": "GOMINING",
+    "price": 0.5526384651732704,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Usual",
+    "symbol": "USUAL",
+    "price": 0.6790391792197851,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Status",
+    "symbol": "SNT",
+    "price": 0.05683086088648661,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Constellation",
+    "symbol": "DAG",
+    "price": 0.07889360717602227,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Alephium",
+    "symbol": "ALPH",
+    "price": 2.3841820444011557,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "BounceBit",
+    "symbol": "BB",
+    "price": 0.46199021565098813,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Scroll",
+    "symbol": "SCR",
+    "price": 1.166693159985365,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Balancer",
+    "symbol": "BAL",
+    "price": 3.5951260133463463,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "UPCX",
+    "symbol": "UPC",
+    "price": 4.459065096465763,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Delysium",
+    "symbol": "AGI",
+    "price": 0.2070237330921209,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Landwolf 0x67",
+    "symbol": "WOLF",
+    "price": 0.0002399457187205923,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Degen",
+    "symbol": "DEGEN",
+    "price": 0.015261673757366659,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "JOE",
+    "symbol": "JOE",
+    "price": 0.5635587193295979,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Huobi Token",
+    "symbol": "HT",
+    "price": 1.2998045004960734,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ZIGChain",
+    "symbol": "ZIG",
+    "price": 0.1459945612175518,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Smooth Love Potion",
+    "symbol": "SLP",
+    "price": 0.005059492248741281,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "insurance",
+    "symbol": "INSURANCE",
+    "price": 11.107975457932575,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Humans.ai",
+    "symbol": "HEART",
+    "price": 0.03714640402962684,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Celer Network",
+    "symbol": "CELR",
+    "price": 0.02641067009351401,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Tellor",
+    "symbol": "TRB",
+    "price": 77.78285315322401,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "BinaryX",
+    "symbol": "BNX",
+    "price": 0.5429764134022008,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "API3",
+    "symbol": "API3",
+    "price": 2.3232114831121793,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Civic",
+    "symbol": "CVC",
+    "price": 0.19990128114174754,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Centrifuge",
+    "symbol": "CFG",
+    "price": 0.39270520408910453,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Portal",
+    "symbol": "PORTAL",
+    "price": 0.4850499859276743,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "WAX",
+    "symbol": "WAXP",
+    "price": 0.05408592800399135,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Department Of Government Efficiency (dogegov.com)",
+    "symbol": "DOGE",
+    "price": 0.20107876520637633,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Coin98",
+    "symbol": "C98",
+    "price": 0.22266908241400427,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Nosana",
+    "symbol": "NOS",
+    "price": 4.048404536168954,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Sologenic",
+    "symbol": "SOLO",
+    "price": 0.4868727135784571,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ANyONe Protocol",
+    "symbol": "ANYONE",
+    "price": 2.0039293092725896,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Marlin",
+    "symbol": "POND",
+    "price": 0.0239452327865384,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Metars Genesis",
+    "symbol": "MRS",
+    "price": 2.2952760846235822,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Lisk",
+    "symbol": "LSK",
+    "price": 1.1703204354950372,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "IOST",
+    "symbol": "IOST",
+    "price": 0.008938583846364095,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Mythos",
+    "symbol": "MYTH",
+    "price": 0.24819175456117568,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Velo",
+    "symbol": "VELO",
+    "price": 0.025213079070263503,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "iExec RLC",
+    "symbol": "RLC",
+    "price": 2.553232098297218,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Banana Gun",
+    "symbol": "BANANA",
+    "price": 53.717587894497704,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Cortex",
+    "symbol": "CTXC",
+    "price": 0.8121845907608111,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Cartesi",
+    "symbol": "CTSI",
+    "price": 0.21441993916265048,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Taiko",
+    "symbol": "TAIKO",
+    "price": 2.180243944814563,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Arcblock",
+    "symbol": "ABT",
+    "price": 1.8205185035320492,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Venus",
+    "symbol": "XVS",
+    "price": 10.88545989253648,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Node AI",
+    "symbol": "GPU",
+    "price": 1.8618742713279108,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "IQ",
+    "symbol": "IQ",
+    "price": 0.008929804702108786,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Spectral",
+    "symbol": "SPEC",
+    "price": 12.519795522979813,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Treasure",
+    "symbol": "MAGIC",
+    "price": 0.6376555768896389,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Sleepless AI",
+    "symbol": "AI",
+    "price": 0.7022844950529409,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Lumia",
+    "symbol": "LUMIA",
+    "price": 1.9977486522670023,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Numeraire",
+    "symbol": "NMR",
+    "price": 22.573487166773436,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Solana Name Service",
+    "symbol": "FIDA",
+    "price": 0.32960873193427076,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "CoW Protocol",
+    "symbol": "COW",
+    "price": 0.6181637551376566,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Neutron",
+    "symbol": "NTRN",
+    "price": 0.565607533059283,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Powerledger",
+    "symbol": "POWR",
+    "price": 0.3034966706856164,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Merlin Chain",
+    "symbol": "MERL",
+    "price": 0.3203112218193013,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "aixbt by Virtuals",
+    "symbol": "AIXBT",
+    "price": 0.19545587821453914,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Polyhedra Network",
+    "symbol": "ZKJ",
+    "price": 1.9806861311227528,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ECOMI",
+    "symbol": "OMI",
+    "price": 0.0006136994450569798,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Hive",
+    "symbol": "HIVE",
+    "price": 0.33107987038751235,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Bitkub Coin",
+    "symbol": "KUB",
+    "price": 2.402415839899459,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Dent",
+    "symbol": "DENT",
+    "price": 0.0016433212204726485,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Zano",
+    "symbol": "ZANO",
+    "price": 12.196657500510572,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Oraichain",
+    "symbol": "ORAI",
+    "price": 11.720579127356965,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Secret",
+    "symbol": "SCRT",
+    "price": 0.5467160148188185,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Osaka Protocol",
+    "symbol": "OSAK",
+    "price": 2.1450789861924898e-7,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Coq Inu",
+    "symbol": "COQ",
+    "price": 0.0000023169762255003454,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ontology Gas",
+    "symbol": "ONG",
+    "price": 0.402740742163971,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "AVA (Travala)",
+    "symbol": "AVA",
+    "price": 2.867932272528065,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Moonriver",
+    "symbol": "MOVR",
+    "price": 17.21334254329588,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Verum Coin",
+    "symbol": "VERUM",
+    "price": 1717.7063538288094,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "TrueFi",
+    "symbol": "TRU",
+    "price": 0.12700459619162557,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ChainGPT",
+    "symbol": "CGPT",
+    "price": 0.20200886948209607,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "BORA",
+    "symbol": "BORA",
+    "price": 0.1433448926444269,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Synapse",
+    "symbol": "SYN",
+    "price": 0.7962717370608824,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Elixir deUSD",
+    "symbol": "DEUSD",
+    "price": 1.000365190818117,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Zentry",
+    "symbol": "ZENT",
+    "price": 0.025027552119184806,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Vulcan Forged (PYR)",
+    "symbol": "PYR",
+    "price": 3.936824422923939,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Realio Network",
+    "symbol": "RIO",
+    "price": 1.2359651393782283,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "CARV",
+    "symbol": "CARV",
+    "price": 0.9591223708380264,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "HashAI",
+    "symbol": "HASHAI",
+    "price": 0.0017898335492295707,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Bone ShibaSwap",
+    "symbol": "BONE",
+    "price": 0.654953909154223,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Oasys",
+    "symbol": "OAS",
+    "price": 0.043994089668795235,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ergo",
+    "symbol": "ERG",
+    "price": 1.9089148207900106,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "price": 0.0009812693976160806,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Cyber",
+    "symbol": "CYBER",
+    "price": 4.846680109079708,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "NeuralAI",
+    "symbol": "NEURAL",
+    "price": 14.928005949103081,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Symbol",
+    "symbol": "XYM",
+    "price": 0.024398889188407435,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Catizen",
+    "symbol": "CATI",
+    "price": 0.5178421505022043,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Cheems (cheems.pet)",
+    "symbol": "CHEEMS",
+    "price": 7.896026780957099e-7,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ultima",
+    "symbol": "ULTIMA",
+    "price": 4593.934221771064,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Hashflow",
+    "symbol": "HFT",
+    "price": 0.3041248393397813,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Aurora",
+    "symbol": "AURORA",
+    "price": 0.26324130293020737,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Acala Token",
+    "symbol": "ACA",
+    "price": 0.1280924259421782,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "THENA",
+    "symbol": "THE",
+    "price": 1.7562274467303318,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "X Empire",
+    "symbol": "X",
+    "price": 0.0002100906643350015,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "USDJ",
+    "symbol": "USDJ",
+    "price": 1.1156868864098832,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "SAFE DEAL",
+    "symbol": "SFD",
+    "price": 4.676049088281765,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "SUNDOG",
+    "symbol": "SUNDOG",
+    "price": 0.14307424886771086,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Pundi X (New)",
+    "symbol": "PUNDIX",
+    "price": 0.5458873895184806,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Aragon",
+    "symbol": "ANT",
+    "price": 3.248649378217241,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Highstreet",
+    "symbol": "HIGH",
+    "price": 2.0349989494508187,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "WINkLink",
+    "symbol": "WIN",
+    "price": 0.00014071587355417759,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Shentu",
+    "symbol": "CTK",
+    "price": 0.9923302895488644,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Nakamoto Games",
+    "symbol": "NAKA",
+    "price": 1.4992744659254202,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "USDB",
+    "symbol": "USDB",
+    "price": 1.0043206470616075,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Rootstock Infrastructure Framework",
+    "symbol": "RIF",
+    "price": 0.1385459167164318,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "CUDOS",
+    "symbol": "CUDOS",
+    "price": 0.013893745867045245,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Propy",
+    "symbol": "PRO",
+    "price": 1.3730128566552158,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Stratis [New]",
+    "symbol": "STRAX",
+    "price": 0.06856048108238631,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Keep Network",
+    "symbol": "KEEP",
+    "price": 0.14269361876828357,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "TerraClassicUSD",
+    "symbol": "USTC",
+    "price": 0.02434407781836683,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "DODO",
+    "symbol": "DODO",
+    "price": 0.18524890884113446,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ozone Chain",
+    "symbol": "OZO",
+    "price": 0.21184103619600564,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Shadow Token",
+    "symbol": "SHDW",
+    "price": 0.8303924002775853,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Phala Network",
+    "symbol": "PHA",
+    "price": 0.17396484780125568,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "MVL",
+    "symbol": "MVL",
+    "price": 0.005157264851213453,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Autonolas",
+    "symbol": "OLAS",
+    "price": 1.8202110843535333,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Dogelon Mars",
+    "symbol": "ELON",
+    "price": 2.417202668557479e-7,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Kyber Network Crystal v2",
+    "symbol": "KNC",
+    "price": 0.705471380659493,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "WhiteRock",
+    "symbol": "WHITE",
+    "price": 0.00020164127830645732,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Artificial Liquid Intelligence",
+    "symbol": "ALI",
+    "price": 0.016002372185936593,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Dusk",
+    "symbol": "DUSK",
+    "price": 0.2801374369892134,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "sudeng",
+    "symbol": "HIPPO",
+    "price": 0.013050106331732626,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "STASIS EURO",
+    "symbol": "EURS",
+    "price": 1.0467529400193953,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Velodrome Finance",
+    "symbol": "VELO",
+    "price": 0.14867064484262837,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Unizen",
+    "symbol": "ZCX",
+    "price": 0.1882101763730425,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Omni Network",
+    "symbol": "OMNI",
+    "price": 12.576191549205467,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Aleph Zero",
+    "symbol": "AZERO",
+    "price": 0.47727169144629716,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "XION",
+    "symbol": "XION",
+    "price": 4.981024850221305,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Maverick Protocol",
+    "symbol": "MAV",
+    "price": 0.2958362288999755,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Prom",
+    "symbol": "PROM",
+    "price": 6.9572313050003505,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Steem",
+    "symbol": "STEEM",
+    "price": 0.26528717665017965,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "LUCE",
+    "symbol": "LUCE",
+    "price": 0.12676897192479242,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Syscoin",
+    "symbol": "SYS",
+    "price": 0.1571399375626663,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Seedify.fund",
+    "symbol": "SFUND",
+    "price": 2.001759734975089,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Braintrust",
+    "symbol": "BTRST",
+    "price": 0.5168468559810716,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "dKargo",
+    "symbol": "DKA",
+    "price": 0.026610586074035835,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Mr Mint",
+    "symbol": "MNT",
+    "price": 0.35530521582444446,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "H2O DAO",
+    "symbol": "H2O",
+    "price": 0.149658056421499,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Helium Mobile",
+    "symbol": "MOBILE",
+    "price": 0.0013825504839722208,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "Fusionist",
+    "symbol": "ACE",
+    "price": 2.9064311171256025,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Bounce Token",
+    "symbol": "AUCTION",
+    "price": 18.64515504807796,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Solidus Ai Tech",
+    "symbol": "AITECH",
+    "price": 0.11227024935623652,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "BENQI",
+    "symbol": "QI",
+    "price": 0.023760763544369037,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Mines of Dalarnia",
+    "symbol": "DAR",
+    "price": 0.19511331919305647,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "MiL.k",
+    "symbol": "MLK",
+    "price": 0.29354225348712737,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Luckycoin",
+    "symbol": "LKY",
+    "price": 9.959900301980955,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Hooked Protocol",
+    "symbol": "HOOK",
+    "price": 0.5769876798023084,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Orchid",
+    "symbol": "OXT",
+    "price": 0.12257241855918126,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Covalent X Token",
+    "symbol": "CXT",
+    "price": 0.12467891847878758,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ark",
+    "symbol": "ARK",
+    "price": 0.6426883265605243,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Altura",
+    "symbol": "ALU",
+    "price": 0.11960769546156678,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "MESSIER",
+    "symbol": "M87",
+    "price": 0.00013232161455879111,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "michi (SOL)",
+    "symbol": "$MICHI",
+    "price": 0.20994475432916498,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Gearbox Protocol",
+    "symbol": "GEAR",
+    "price": 0.011521058852912203,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "SLERF",
+    "symbol": "SLERF",
+    "price": 0.23028532345508143,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "RSS3",
+    "symbol": "RSS3",
+    "price": 0.17032522806511163,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Clash of Lilliput",
+    "symbol": "COL",
+    "price": 1.4002346476660297,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "RETARDIO",
+    "symbol": "RETARDIO",
+    "price": 0.11687865196136593,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "AI Companions",
+    "symbol": "AIC",
+    "price": 0.15194503144136418,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Satoshi Airline",
+    "symbol": "JET",
+    "price": 1.2119946106855557,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Mumu the Bull (SOL)",
+    "symbol": "MUMU",
+    "price": 0.00004950883870683613,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Zircuit",
+    "symbol": "ZRC",
+    "price": 0.07566425632644112,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "IAGON",
+    "symbol": "IAG",
+    "price": 0.2985343603259687,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "MediBloc",
+    "symbol": "MED",
+    "price": 0.01169588412957712,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "SmarDex",
+    "symbol": "SDEX",
+    "price": 0.012382811527133072,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "MOBOX",
+    "symbol": "MBOX",
+    "price": 0.2797119020252099,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Metal DAO",
+    "symbol": "MTL",
+    "price": 1.413333439341194,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Moca Network",
+    "symbol": "MOCA",
+    "price": 0.08676418774067793,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Toko Token",
+    "symbol": "TKO",
+    "price": 0.6495850385293541,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "SuperRare",
+    "symbol": "RARE",
+    "price": 0.1523803288235333,
+    "last_updated": "2024-12-12T22:06:00.000Z"
+  },
+  {
+    "name": "MyNeighborAlice",
+    "symbol": "ALICE",
+    "price": 1.6055386828231435,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Bitcoin Wizards",
+    "symbol": "WZRD",
+    "price": 5.184914723005602,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "NetMind Token",
+    "symbol": "NMT",
+    "price": 3.2428894459311732,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ardor",
+    "symbol": "ARDR",
+    "price": 0.1083664696384516,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "RACA",
+    "symbol": "RACA",
+    "price": 0.0002634611504751654,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Toshi",
+    "symbol": "TOSHI",
+    "price": 0.0002650298978543574,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "DIA",
+    "symbol": "DIA",
+    "price": 0.9028874017473209,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Bancor",
+    "symbol": "BNT",
+    "price": 0.9010461778887088,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Paycoin",
+    "symbol": "PCI",
+    "price": 0.10661047137217715,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Phoenix",
+    "symbol": "PHB",
+    "price": 2.0031901333330366,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "NFPrompt",
+    "symbol": "NFP",
+    "price": 0.3614999431939747,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Decentralized Social",
+    "symbol": "DESO",
+    "price": 11.86538468248489,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "LimeWire",
+    "symbol": "LMWR",
+    "price": 0.3385031786623949,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "STP",
+    "symbol": "STPT",
+    "price": 0.05343207686902752,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "BakeryToken",
+    "symbol": "BAKE",
+    "price": 0.35702931185137293,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Orbs",
+    "symbol": "ORBS",
+    "price": 0.03257549951056075,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Adventure Gold",
+    "symbol": "AGLD",
+    "price": 1.3331366867449783,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Lista DAO",
+    "symbol": "LISTA",
+    "price": 0.5575557721517325,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Alien Worlds",
+    "symbol": "TLM",
+    "price": 0.01867555233331261,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "CLV",
+    "symbol": "CLV",
+    "price": 0.08331071866656567,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Mode",
+    "symbol": "MODE",
+    "price": 0.04072269321257962,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "UXLINK",
+    "symbol": "UXLINK",
+    "price": 0.5986700667240606,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Stella",
+    "symbol": "ALPHA",
+    "price": 0.11171277233506301,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Request",
+    "symbol": "REQ",
+    "price": 0.13179306891236184,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "BILLION•DOLLAR•CAT",
+    "symbol": "BDC",
+    "price": 0.10052418389625888,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ShibaBitcoin",
+    "symbol": "SHIBTC",
+    "price": 1.1589989953273456,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "NYM",
+    "symbol": "NYM",
+    "price": 0.12380391333744177,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Coreum",
+    "symbol": "COREUM",
+    "price": 0.25822014778256236,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Tokenlon Network Token",
+    "symbol": "LON",
+    "price": 0.8594174946273895,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Alkimi",
+    "symbol": "ADS",
+    "price": 0.41808764063829446,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Kujira",
+    "symbol": "KUJI",
+    "price": 0.8086593204846009,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "BOBO",
+    "symbol": "BOBO",
+    "price": 0.000001493279621178649,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Gitcoin",
+    "symbol": "GTC",
+    "price": 1.1495552830172195,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Origin Protocol",
+    "symbol": "OGN",
+    "price": 0.1431597432664447,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "DeFi Pulse Index",
+    "symbol": "DPI",
+    "price": 176.0362627858847,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Crown by Third Time Games",
+    "symbol": "CROWN",
+    "price": 0.5107692931199856,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "BitMart Token",
+    "symbol": "BMX",
+    "price": 0.2989729995330963,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Islamic Coin",
+    "symbol": "ISLM",
+    "price": 0.06624036283429996,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Radiant Capital",
+    "symbol": "RDNT",
+    "price": 0.08133485630908234,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ARPA",
+    "symbol": "ARPA",
+    "price": 0.06341575551555619,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Hifi Finance",
+    "symbol": "HIFI",
+    "price": 0.6806525845243846,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "PaLM AI",
+    "symbol": "PALM",
+    "price": 1.2479401045549616,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "LUKSO",
+    "symbol": "LYX",
+    "price": 3.144387604837311,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Telos",
+    "symbol": "TLOS",
+    "price": 0.25146406059743526,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ResearchCoin",
+    "symbol": "RSC",
+    "price": 0.991638823102434,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "StormX",
+    "symbol": "STMX",
+    "price": 0.00762666515154835,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "NKN",
+    "symbol": "NKN",
+    "price": 0.12027996044450877,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Pax Dollar",
+    "symbol": "USDP",
+    "price": 1.0001702077913313,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Myro",
+    "symbol": "MYRO",
+    "price": 0.09887719566490095,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Mr Miggles",
+    "symbol": "MIGGLES",
+    "price": 0.09708716298374717,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Wojak",
+    "symbol": "WOJAK",
+    "price": 0.0013389435495058156,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "EURC",
+    "symbol": "EURC",
+    "price": 1.0505931959434196,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "MobileCoin",
+    "symbol": "MOB",
+    "price": 0.46432550861177607,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Pocket Network",
+    "symbol": "POKT",
+    "price": 0.05593655173167059,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Maple",
+    "symbol": "MPL",
+    "price": 20.552231430244273,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Renzo",
+    "symbol": "REZ",
+    "price": 0.05404531702780676,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Entangle",
+    "symbol": "NGL",
+    "price": 0.15810912696068802,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "KARRAT",
+    "symbol": "KARRAT",
+    "price": 0.5573906860368308,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ApeX Protocol",
+    "symbol": "APEX",
+    "price": 1.8514589070811265,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Tensor",
+    "symbol": "TNSR",
+    "price": 0.7185262776465311,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "inSure DeFi",
+    "symbol": "SURE",
+    "price": 0.003326764731549755,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Wen",
+    "symbol": "WEN",
+    "price": 0.00012227939037790628,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "DAO Maker",
+    "symbol": "DAO",
+    "price": 0.4606153614011684,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Myria",
+    "symbol": "MYRIA",
+    "price": 0.0034029872478158704,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Gods Unchained",
+    "symbol": "GODS",
+    "price": 0.2616075870928357,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ancient8",
+    "symbol": "A8",
+    "price": 0.37220040101642005,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Comedian",
+    "symbol": "BAN",
+    "price": 0.08633679521498593,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Star Atlas",
+    "symbol": "ATLAS",
+    "price": 0.004884193768781215,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "OX Coin",
+    "symbol": "OX",
+    "price": 0.02331245570181752,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Loom Network",
+    "symbol": "LOOM",
+    "price": 0.06889177786498003,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Parcl",
+    "symbol": "PRCL",
+    "price": 0.39863151116887424,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "SaucerSwap",
+    "symbol": "SAUCE",
+    "price": 0.1158890524362661,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "WazirX",
+    "symbol": "WRX",
+    "price": 0.22301648650316375,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "GameBuild",
+    "symbol": "GAME",
+    "price": 0.005218116389341456,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "LTO Network",
+    "symbol": "LTO",
+    "price": 0.19488373715961185,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "AI Analysis Token",
+    "symbol": "AIAT",
+    "price": 0.5760964213056,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Gains Network",
+    "symbol": "GNS",
+    "price": 2.5377310398703368,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Radworks",
+    "symbol": "RAD",
+    "price": 1.600746048635375,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "QuarkChain",
+    "symbol": "QKC",
+    "price": 0.01169700427277417,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "MAGA (magamemecoin.com)",
+    "symbol": "TRUMP",
+    "price": 1.8753618702303094,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Stronghold Token",
+    "symbol": "SHX",
+    "price": 0.014196020894315532,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "LeverFi",
+    "symbol": "LEVER",
+    "price": 0.0023405683288338394,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Pangolin",
+    "symbol": "PNG",
+    "price": 0.3724896817767747,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Tokamak Network",
+    "symbol": "TON",
+    "price": 1.8480351461251823,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Badger DAO",
+    "symbol": "BADGER",
+    "price": 3.948068359862679,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "USDX [Kava]",
+    "symbol": "USDX",
+    "price": 0.70361791045218,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Puffer",
+    "symbol": "PUFFER",
+    "price": 0.7667687159626411,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Hoppy",
+    "symbol": "HOPPY",
+    "price": 0.00018420060148196024,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "XPLA",
+    "symbol": "XPLA",
+    "price": 0.10221783228154062,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Luna by Virtuals",
+    "symbol": "LUNA",
+    "price": 0.07699469507963635,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Onyxcoin",
+    "symbol": "XCN",
+    "price": 0.0024917306329230635,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ArchLoot",
+    "symbol": "AL",
+    "price": 0.12897047982989995,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Ampleforth Governance Token",
+    "symbol": "FORTH",
+    "price": 5.377438673223533,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Bertram The Pomeranian",
+    "symbol": "BERT",
+    "price": 0.07875918925054053,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Bluzelle",
+    "symbol": "BLZ",
+    "price": 0.1681604488313062,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Forta",
+    "symbol": "FORT",
+    "price": 0.15813455022919762,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Urolithin A",
+    "symbol": "$URO",
+    "price": 0.07555967826728892,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "MARBLEX",
+    "symbol": "MBX",
+    "price": 0.42450281332390194,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Stargate Finance",
+    "symbol": "STG",
+    "price": 0.3668807259495509,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Open Loot",
+    "symbol": "OL",
+    "price": 0.30589566658278106,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Ethernity Chain",
+    "symbol": "ERN",
+    "price": 3.141139734221721,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "xMoney",
+    "symbol": "UTK",
+    "price": 0.10504267915813269,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "RARI",
+    "symbol": "RARI",
+    "price": 2.9861858444254854,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Automata Network",
+    "symbol": "ATA",
+    "price": 0.13071058849321684,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Uquid Coin",
+    "symbol": "UQC",
+    "price": 7.350697133080646,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Cobak Token",
+    "symbol": "CBK",
+    "price": 0.8194596632132641,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Zebec Network",
+    "symbol": "ZBCN",
+    "price": 0.001089111962838473,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "First Convicted Raccon Fred",
+    "symbol": "FRED",
+    "price": 0.07322964119258957,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Swell Network",
+    "symbol": "SWELL",
+    "price": 0.04246618654782898,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "REI Network",
+    "symbol": "REI",
+    "price": 0.07617723297293798,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Perpetual Protocol",
+    "symbol": "PERP",
+    "price": 1.090615830371395,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Aergo",
+    "symbol": "AERGO",
+    "price": 0.15311244002030874,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Star Atlas DAO",
+    "symbol": "POLIS",
+    "price": 0.2642009952391932,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "MemeFi",
+    "symbol": "MEMEFI",
+    "price": 0.007090459414383161,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Contentos",
+    "symbol": "COS",
+    "price": 0.013691427678459687,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Major",
+    "symbol": "MAJOR",
+    "price": 0.8491807447439833,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ALEX Lab",
+    "symbol": "ALEX",
+    "price": 0.11657186635659125,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "MANEKI",
+    "symbol": "MANEKI",
+    "price": 0.007932400986019003,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Hippocrat",
+    "symbol": "HPO",
+    "price": 0.06772757696064904,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Venom",
+    "symbol": "VENOM",
+    "price": 0.07054754622279762,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Evan",
+    "symbol": "EVAN",
+    "price": 0.06998081103620322,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Bifrost",
+    "symbol": "BFC",
+    "price": 0.05013779452562152,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Artrade",
+    "symbol": "ATR",
+    "price": 0.055350258508308874,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "OMG Network",
+    "symbol": "OMG",
+    "price": 0.49643709552108917,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "PlatON",
+    "symbol": "LAT",
+    "price": 0.0114107480784717,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "MovieBloc",
+    "symbol": "MBL",
+    "price": 0.0038160944752874577,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "WHY",
+    "symbol": "WHY",
+    "price": 1.6416391861987314e-7,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Aavegotchi",
+    "symbol": "GHST",
+    "price": 1.306931704629859,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Milady Meme Coin",
+    "symbol": "LADYS",
+    "price": 9.390984247365224e-8,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Gelato",
+    "symbol": "GEL",
+    "price": 0.29189305113315206,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Access Protocol",
+    "symbol": "ACS",
+    "price": 0.001817108051185825,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "APX",
+    "symbol": "APX",
+    "price": 0.12359961895194821,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "BUSD",
+    "symbol": "BUSD",
+    "price": 1.000406794166016,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Litentry",
+    "symbol": "LIT",
+    "price": 1.0193951411441535,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Mother Iggy",
+    "symbol": "MOTHER",
+    "price": 0.06832837572245141,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Stride",
+    "symbol": "STRD",
+    "price": 0.7629556808058433,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "TokenFi",
+    "symbol": "TOKEN",
+    "price": 0.0670099409298801,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "CoinEx Token",
+    "symbol": "CET",
+    "price": 0.09409590521980389,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Tectum",
+    "symbol": "TET",
+    "price": 8.49988743607901,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Tornado Cash",
+    "symbol": "TORN",
+    "price": 12.639642506776658,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Dione Protocol",
+    "symbol": "DIONE",
+    "price": 0.006533221643673369,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Rifampicin",
+    "symbol": "$RIF",
+    "price": 0.06599879279147983,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Hacken Token",
+    "symbol": "HAI",
+    "price": 0.07769876589172782,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Impossible Finance Launchpad",
+    "symbol": "IDIA",
+    "price": 0.09628773616348223,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Goldfinch",
+    "symbol": "GFI",
+    "price": 2.2449079175293205,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Dego Finance",
+    "symbol": "DEGO",
+    "price": 3.110106342216387,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "SIDUS",
+    "symbol": "SIDUS",
+    "price": 0.0069441888934355725,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Function X",
+    "symbol": "FX",
+    "price": 0.15886494717291078,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Verasity",
+    "symbol": "VRA",
+    "price": 0.006578780802068567,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Staika",
+    "symbol": "STIK",
+    "price": 1.426584135829216,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Gemini Dollar",
+    "symbol": "GUSD",
+    "price": 0.9980673125786192,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "OORT",
+    "symbol": "OORT",
+    "price": 0.22264710391258458,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "PeiPei (ETH)",
+    "symbol": "PEIPEI",
+    "price": 1.556127919819384e-7,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Vector Smart Gas",
+    "symbol": "VSG",
+    "price": 0.006393959723020811,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Liquity USD",
+    "symbol": "LUSD",
+    "price": 0.9879164079830081,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "LooksRare",
+    "symbol": "LOOKS",
+    "price": 0.06394719670316057,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ArbDoge AI",
+    "symbol": "AIDOGE",
+    "price": 3.67054858786469e-10,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Devve",
+    "symbol": "DEVVE",
+    "price": 0.800942664609499,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Victoria VR",
+    "symbol": "VR",
+    "price": 0.011904537998999156,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "GamerCoin",
+    "symbol": "GHX",
+    "price": 0.09713013123965096,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Polymath",
+    "symbol": "POLY",
+    "price": 0.0678466644557718,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Elastos",
+    "symbol": "ELA",
+    "price": 2.785486571944427,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Enzyme",
+    "symbol": "MLN",
+    "price": 23.235587730259237,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Boson Protocol",
+    "symbol": "BOSON",
+    "price": 0.4508342094621272,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "DIMO",
+    "symbol": "DIMO",
+    "price": 0.22524884763621167,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Zero1 Labs",
+    "symbol": "DEAI",
+    "price": 0.673697577200224,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Alchemix",
+    "symbol": "ALCX",
+    "price": 25.606164118900715,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Metadium",
+    "symbol": "META",
+    "price": 0.035882994745219186,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Minswap",
+    "symbol": "MIN",
+    "price": 0.05647430566414987,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Neiro Ethereum",
+    "symbol": "NEIRO",
+    "price": 0.06104805237122014,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Flamingo",
+    "symbol": "FLM",
+    "price": 0.09536589769339104,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ChainSwap",
+    "symbol": "CSWAP",
+    "price": 0.06509313801567504,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Venus BUSD",
+    "symbol": "vBUSD",
+    "price": 0.022314312629387534,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "McDull",
+    "symbol": "MCDULL",
+    "price": 0.000007932529885695122,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Numbers Protocol",
+    "symbol": "NUM",
+    "price": 0.08327740398544362,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Anchored Coins AEUR",
+    "symbol": "AEUR",
+    "price": 1.0378165503067935,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Pino",
+    "symbol": "PINO",
+    "price": 0.05938310958256923,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Heroes of Mavia",
+    "symbol": "MAVIA",
+    "price": 1.5040029901359218,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "NULS",
+    "symbol": "NULS",
+    "price": 0.5252280647155985,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Euler",
+    "symbol": "EUL",
+    "price": 3.5985026534084845,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "The Root Network",
+    "symbol": "ROOT",
+    "price": 0.04011902621642258,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Energy Web Token",
+    "symbol": "EWT",
+    "price": 1.9186804254951155,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Streamr",
+    "symbol": "DATA",
+    "price": 0.05336341335193631,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Metacade",
+    "symbol": "MCADE",
+    "price": 0.04329621649438509,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "zKML",
+    "symbol": "ZKML",
+    "price": 0.6087702580965024,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Electroneum",
+    "symbol": "ETN",
+    "price": 0.003218457453954929,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "IDEX",
+    "symbol": "IDEX",
+    "price": 0.07097582059765944,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "district0x",
+    "symbol": "DNT",
+    "price": 0.057049684723138684,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "MAP Protocol",
+    "symbol": "MAPO",
+    "price": 0.010829955799668738,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Tokemak",
+    "symbol": "TOKE",
+    "price": 0.7051565714050697,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Bella Protocol",
+    "symbol": "BEL",
+    "price": 0.7861084394635315,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Stader",
+    "symbol": "SD",
+    "price": 1.3897959039028414,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "FUNToken",
+    "symbol": "FUN",
+    "price": 0.005203979795798794,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Save",
+    "symbol": "SLND",
+    "price": 1.106594901877379,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "A3S Protocol",
+    "symbol": "AA",
+    "price": 0.2329044658663696,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "OctaSpace",
+    "symbol": "OCTA",
+    "price": 1.6268260058387476,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "PepeFork",
+    "symbol": "PORK",
+    "price": 1.322314896691384e-7,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "MAD",
+    "symbol": "MAD",
+    "price": 0.000054413819404308764,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "League of Kingdoms Arena",
+    "symbol": "LOKA",
+    "price": 0.29538723993958316,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "SIGMA",
+    "symbol": "SIGMA",
+    "price": 0.060113918170373946,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Wanchain",
+    "symbol": "WAN",
+    "price": 0.27125631906745845,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Lift Dollar",
+    "symbol": "USDL",
+    "price": 0.9997716317440212,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Voxies",
+    "symbol": "VOXEL",
+    "price": 0.25155395675195924,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "NAVI Protocol",
+    "symbol": "NAVX",
+    "price": 0.16213071428247053,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Grok",
+    "symbol": "GROK",
+    "price": 0.008410283771715224,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Metacraft",
+    "symbol": "MCT",
+    "price": 1.0020679239261394,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Houdini Swap",
+    "symbol": "LOCK",
+    "price": 0.5478296486425097,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Nexera",
+    "symbol": "NXRA",
+    "price": 0.06394912580778332,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "SquidGrow",
+    "symbol": "SQGROW",
+    "price": 0.052340992679320346,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Green Satoshi Token (SOL)",
+    "symbol": "GST",
+    "price": 0.021515309873232424,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Polkastarter",
+    "symbol": "POLS",
+    "price": 0.5247311265097863,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "TROY",
+    "symbol": "TROY",
+    "price": 0.006029181451163033,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Linear Finance",
+    "symbol": "LINA",
+    "price": 0.007107363498663838,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Quantum Resistant Ledger",
+    "symbol": "QRL",
+    "price": 0.7613379375702727,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "ViciCoin",
+    "symbol": "VCNT",
+    "price": 22.56420138853028,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Dora Factory",
+    "symbol": "DORA",
+    "price": 0.09461247809216021,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Shrub",
+    "symbol": "SHRUB",
+    "price": 0.05388501987004191,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Steem Dollars",
+    "symbol": "SBD",
+    "price": 3.650429895839295,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Bellscoin",
+    "symbol": "BELLS",
+    "price": 0.8833996712127701,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "PAID",
+    "symbol": "PAID",
+    "price": 0.11787498558470848,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Komodo",
+    "symbol": "KMD",
+    "price": 0.3712811499301417,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Kishu Inu",
+    "symbol": "KISHU",
+    "price": 5.40133581307714e-10,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Gems",
+    "symbol": "GEMS",
+    "price": 0.12573947959128867,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Ribbon Finance",
+    "symbol": "RBN",
+    "price": 0.5069810546802771,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Dimitra",
+    "symbol": "DMTR",
+    "price": 0.10219725895129979,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Matr1x Fire",
+    "symbol": "FIRE",
+    "price": 0.7451498046246297,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Sweat Economy",
+    "symbol": "SWEAT",
+    "price": 0.007322735639878136,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "DEAPcoin",
+    "symbol": "DEP",
+    "price": 0.0017458126185787605,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Klever Coin",
+    "symbol": "KLV",
+    "price": 0.005541302265904655,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "GameFi.org",
+    "symbol": "GAFI",
+    "price": 4.494454871942841,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Bitget Wallet Token",
+    "symbol": "BWB",
+    "price": 0.34302143701230514,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Orderly Network",
+    "symbol": "ORDER",
+    "price": 0.2289673871858977,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ultra",
+    "symbol": "UOS",
+    "price": 0.12261419502499303,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "cheqd",
+    "symbol": "CHEQ",
+    "price": 0.07638296833559788,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Viction",
+    "symbol": "VIC",
+    "price": 0.5061357913125948,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Assemble AI",
+    "symbol": "ASM",
+    "price": 0.03246952516350725,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Strike",
+    "symbol": "STRK",
+    "price": 9.030102994633234,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "GEODNET",
+    "symbol": "GEOD",
+    "price": 0.24539390325618884,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Beta Finance",
+    "symbol": "BETA",
+    "price": 0.056342863788184275,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "SPECTRE AI",
+    "symbol": "SPECTRE",
+    "price": 5.311396695689185,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ThunderCore",
+    "symbol": "TT",
+    "price": 0.004190509039987822,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ice Open Network",
+    "symbol": "ICE",
+    "price": 0.007277993583414484,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Cornucopias",
+    "symbol": "COPI",
+    "price": 0.05246022908656316,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Hunt Town",
+    "symbol": "HUNT",
+    "price": 0.37984928361696313,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Biswap",
+    "symbol": "BSW",
+    "price": 0.09010800951325233,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Vita Inu",
+    "symbol": "VINU",
+    "price": 5.281608019979791e-8,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Masa",
+    "symbol": "MASA",
+    "price": 0.13299184768278788,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "StaFi",
+    "symbol": "FIS",
+    "price": 0.45332972514868297,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Bitgert",
+    "symbol": "BRISE",
+    "price": 1.199123026619263e-7,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "tokenbot",
+    "symbol": "CLANKER",
+    "price": 54.42906799398483,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "FirmaChain",
+    "symbol": "FCT",
+    "price": 0.050505290698845115,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Self Chain",
+    "symbol": "SLF",
+    "price": 0.4843512723807375,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Everscale",
+    "symbol": "EVER",
+    "price": 0.023607352673160994,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Sui Name Service",
+    "symbol": "NS",
+    "price": 0.31148797901021286,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Hosky Token",
+    "symbol": "HOSKY",
+    "price": 2.0506131643007298e-7,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Tranchess",
+    "symbol": "CHESS",
+    "price": 0.23875157500442962,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Taraxa",
+    "symbol": "TARA",
+    "price": 0.009245755277475804,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "MOO DENG (moodeng.vip)",
+    "symbol": "MOODENG",
+    "price": 0.00011243105320066183,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Concordium",
+    "symbol": "CCD",
+    "price": 0.004153751570644913,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Pirate Chain",
+    "symbol": "ARRR",
+    "price": 0.23268659521642293,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Aleph.im",
+    "symbol": "ALEPH",
+    "price": 0.18366723574236404,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "PolySwarm",
+    "symbol": "NCT",
+    "price": 0.02388579989603069,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Boba Network",
+    "symbol": "BOBA",
+    "price": 0.261946511896579,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "COMBO",
+    "symbol": "COMBO",
+    "price": 0.6341477223974242,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Agoras: Tau Net",
+    "symbol": "AGRS",
+    "price": 1.5023296459725384,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "dForce",
+    "symbol": "DF",
+    "price": 0.04488190335718307,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Whiteheart",
+    "symbol": "WHITE",
+    "price": 4989.598526638748,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ORIGYN",
+    "symbol": "OGY",
+    "price": 0.005648160002234109,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Hathor",
+    "symbol": "HTR",
+    "price": 0.09617936859304765,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Groestlcoin",
+    "symbol": "GRS",
+    "price": 0.5103133734313103,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Ren",
+    "symbol": "REN",
+    "price": 0.04416115408759414,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Moon Tropica",
+    "symbol": "CAH",
+    "price": 19.67425028561897,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Propbase",
+    "symbol": "PROPS",
+    "price": 0.11354783084508355,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Dasha",
+    "symbol": "VVAIFU",
+    "price": 0.04399033552213536,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Tron Bull",
+    "symbol": "BULL",
+    "price": 0.04580236268254297,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "e-Radix",
+    "symbol": "EXRD",
+    "price": 0.03530634232323534,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "GT Protocol",
+    "symbol": "GTAI",
+    "price": 0.968572746533604,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Bitcoin Atom",
+    "symbol": "BCA",
+    "price": 2.335196035005,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "XPR Network",
+    "symbol": "XPR",
+    "price": 0.001591538181319195,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "QuickSwap [Old]",
+    "symbol": "QUICK",
+    "price": 57.044451799992835,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "PARSIQ",
+    "symbol": "PRQ",
+    "price": 0.13893436719865504,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Bluefin",
+    "symbol": "BLUE",
+    "price": 0.33927432813316477,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Propchain",
+    "symbol": "PROPC",
+    "price": 1.7831793201050976,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Quickswap [New]",
+    "symbol": "QUICK",
+    "price": 0.056495874513522545,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Synternet",
+    "symbol": "SYNT",
+    "price": 0.06416376438819218,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ZEON",
+    "symbol": "ZEON",
+    "price": 0.0013654248550556227,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "LinqAI",
+    "symbol": "LNQ",
+    "price": 0.17786401106045213,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Memes AI",
+    "symbol": "MemesAI",
+    "price": 0.04105326319628604,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ARC",
+    "symbol": "ARC",
+    "price": 0.04616745465993342,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "RabBitcoin",
+    "symbol": "RBTC",
+    "price": 0.000005527608634640988,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Fluence",
+    "symbol": "FLT",
+    "price": 0.449378974738268,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Kin",
+    "symbol": "KIN",
+    "price": 0.00001470374133731279,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Botto",
+    "symbol": "BOTTO",
+    "price": 0.8375263557606051,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Daddy Tate",
+    "symbol": "DADDY",
+    "price": 0.0672990134451094,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Samoyedcoin",
+    "symbol": "SAMO",
+    "price": 0.011037035742187618,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "XSGD",
+    "symbol": "XSGD",
+    "price": 0.7478764657148335,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Harvest Finance",
+    "symbol": "FARM",
+    "price": 60.20631130669061,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "RAMP",
+    "symbol": "RAMP",
+    "price": 0.08400456095174413,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "FIO Protocol",
+    "symbol": "FIO",
+    "price": 0.050149572900032545,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Locus Chain",
+    "symbol": "LOCUS",
+    "price": 0.01920785670728162,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Measurable Data Token",
+    "symbol": "MDT",
+    "price": 0.05899150405140523,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "BurgerCities",
+    "symbol": "BURGER",
+    "price": 0.6559576795458126,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Moss Coin",
+    "symbol": "MOC",
+    "price": 0.09244923189686588,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "RichQUACK.com",
+    "symbol": "QUACK",
+    "price": 8.82126834699697e-10,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "AdEx",
+    "symbol": "ADX",
+    "price": 0.2748257570673174,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Pirate Nation",
+    "symbol": "PIRATE",
+    "price": 0.16190403383405466,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Cream Finance",
+    "symbol": "CREAM",
+    "price": 20.724942288886812,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "MATH",
+    "symbol": "MATH",
+    "price": 0.33575575775108557,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Prosper",
+    "symbol": "PROS",
+    "price": 0.746678777907465,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Persistence One",
+    "symbol": "XPRT",
+    "price": 0.17895487253266443,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Opulous",
+    "symbol": "OPUL",
+    "price": 0.10439312378974813,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Tether EURt",
+    "symbol": "EURt",
+    "price": 1.0457091982344822,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Shoggoth (shoggoth.monster)",
+    "symbol": "SHOGGOTH",
+    "price": 0.0380632784678449,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Chainbounty",
+    "symbol": "BOUNTY",
+    "price": 0.07503842986223386,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "VIDT DAO",
+    "symbol": "VIDT",
+    "price": 0.04491389888146387,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Amaterasu Omikami",
+    "symbol": "OMIKAMI",
+    "price": 0.039721824604366324,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Vertex Protocol",
+    "symbol": "VRTX",
+    "price": 0.09702651403878915,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "VAIOT",
+    "symbol": "VAI",
+    "price": 0.10652788376371912,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "GmeStop",
+    "symbol": "GME",
+    "price": 0.005424101374418862,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Ultiverse",
+    "symbol": "ULTI",
+    "price": 0.011670936610183067,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Velas",
+    "symbol": "VLX",
+    "price": 0.013975151635312195,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Fractal Bitcoin",
+    "symbol": "FB",
+    "price": 4.670963121166,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Kasta",
+    "symbol": "KASTA",
+    "price": 0.04906855985824944,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "HOPR",
+    "symbol": "HOPR",
+    "price": 0.1086036339786475,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Gold DAO",
+    "symbol": "GLDGOV",
+    "price": 0.052809379927596094,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "StrikeX",
+    "symbol": "STRX",
+    "price": 0.04241507433167189,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Doge Killer",
+    "symbol": "LEASH",
+    "price": 345.9111229928404,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "AirDAO",
+    "symbol": "AMB",
+    "price": 0.01100508789443763,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "StorX Network",
+    "symbol": "SRX",
+    "price": 0.10731702790999709,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "DACXI",
+    "symbol": "DXI",
+    "price": 0.004068681819075292,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "SwftCoin",
+    "symbol": "SWFTC",
+    "price": 0.009129602360689397,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Ampleforth",
+    "symbol": "AMPL",
+    "price": 1.2897765355330684,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Eurite",
+    "symbol": "EURI",
+    "price": 1.0478259445294487,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Alpha Quark Token",
+    "symbol": "AQT",
+    "price": 1.351250932750973,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "BIM",
+    "symbol": "BIM",
+    "price": 1.1415735489715757,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "zkLink",
+    "symbol": "ZKL",
+    "price": 0.18769521979650178,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "KiboShib",
+    "symbol": "KIBSHI",
+    "price": 0.000035963587791575966,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Cellframe",
+    "symbol": "CELL",
+    "price": 1.2521505261555077,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Pixer Eternity",
+    "symbol": "PXT",
+    "price": 0.01146192075875193,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "deBridge",
+    "symbol": "DBR",
+    "price": 0.030617983833439867,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "MAGA (maga-hat.vip)",
+    "symbol": "MAGA",
+    "price": 0.00009167208599109003,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "WAGMI Games",
+    "symbol": "WAGMIGAMES",
+    "price": 0.000019787464262205647,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "CEEK VR",
+    "symbol": "CEEK",
+    "price": 0.044193857909616906,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Celo Dollar",
+    "symbol": "CUSD",
+    "price": 0.999768229511707,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ASD",
+    "symbol": "ASD",
+    "price": 0.05378133469749988,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Pikaboss",
+    "symbol": "PIKA",
+    "price": 8.373190115128927e-8,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "PIVX",
+    "symbol": "PIVX",
+    "price": 0.3975208122098154,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Adshares",
+    "symbol": "ADS",
+    "price": 0.9033242460969962,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Wirex Token",
+    "symbol": "WXT",
+    "price": 0.003483722486383999,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Connex",
+    "symbol": "CONX",
+    "price": 29.94540708906083,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "AhaToken",
+    "symbol": "AHT",
+    "price": 0.005918301106915088,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "DEXTools",
+    "symbol": "DEXT",
+    "price": 0.4429125747665591,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Guild of Guardians",
+    "symbol": "GOG",
+    "price": 0.05030327459757323,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Rewardable",
+    "symbol": "REWARD",
+    "price": 0.1375198619048165,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Alpaca Finance",
+    "symbol": "ALPACA",
+    "price": 0.22543854917190567,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Tenset",
+    "symbol": "10SET",
+    "price": 0.243092854929752,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "OpenGPU",
+    "symbol": "oGPU",
+    "price": 2.7061991740548894,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Wing Finance",
+    "symbol": "WING",
+    "price": 7.17264177419991,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Purple Pepe",
+    "symbol": "$PURPE",
+    "price": 0.00008130817776053607,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Brickken",
+    "symbol": "BKN",
+    "price": 0.5221935340812821,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Strawberry AI",
+    "symbol": "BERRY",
+    "price": 0.3368005467143268,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "PlayDapp",
+    "symbol": "PDA",
+    "price": 0.05513912181501157,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "DeFiChain",
+    "symbol": "DFI",
+    "price": 0.040383605820615474,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Skey Network",
+    "symbol": "SKEY",
+    "price": 0.08165956342279515,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "SingularityDAO",
+    "symbol": "SDAO",
+    "price": 0.4018793508063102,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Reef",
+    "symbol": "REEF",
+    "price": 0.0014408141190604077,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Cere Network",
+    "symbol": "CERE",
+    "price": 0.004749539505804214,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "AIT Protocol",
+    "symbol": "AIT",
+    "price": 0.11383429981374088,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ROGin AI",
+    "symbol": "ROG",
+    "price": 0.48637199617194105,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Shapeshift FOX Token",
+    "symbol": "FOX",
+    "price": 0.08607699080449725,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "MetFi",
+    "symbol": "METFI",
+    "price": 0.1729322605255917,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Step Finance",
+    "symbol": "STEP",
+    "price": 0.14707035592047737,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "LORDS",
+    "symbol": "LORDS",
+    "price": 0.20352382795157403,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Foxsy AI",
+    "symbol": "FOXSY",
+    "price": 0.07942208474803386,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "TokenPocket",
+    "symbol": "TPT",
+    "price": 0.009239679103088342,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Games for a Living",
+    "symbol": "GFAL",
+    "price": 0.00996061510050551,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "HyperCycle",
+    "symbol": "HYPC",
+    "price": 0.20609760705643382,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "bitsCrunch",
+    "symbol": "BCUT",
+    "price": 0.09793291628413264,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Hege",
+    "symbol": "HEGE",
+    "price": 0.03172706000371349,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Dynex",
+    "symbol": "DNX",
+    "price": 0.32266658311458823,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Clore.ai",
+    "symbol": "CLORE",
+    "price": 0.1273518904038932,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Shrapnel",
+    "symbol": "SHRAP",
+    "price": 0.03945017412592105,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "OmniFlix Network",
+    "symbol": "FLIX",
+    "price": 0.12638744655719633,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "NEOPIN",
+    "symbol": "NPT",
+    "price": 0.22439260775158934,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Beefy",
+    "symbol": "BIFI",
+    "price": 393.83458527389473,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "FractonX",
+    "symbol": "FT",
+    "price": 0.359064441307326,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "crow with knife",
+    "symbol": "CAW",
+    "price": 4.0569556888606445e-8,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "FEED EVERY GORILLA",
+    "symbol": "FEG",
+    "price": 0.0003880721607729336,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "UniLend",
+    "symbol": "UFT",
+    "price": 0.3635521876929349,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Kendu Inu",
+    "symbol": "KENDU",
+    "price": 0.000032300931248823476,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Matr1x",
+    "symbol": "MAX",
+    "price": 0.23414707050716652,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Polytrade",
+    "symbol": "TRADE",
+    "price": 0.765295121659017,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Graphlinq Chain",
+    "symbol": "GLQ",
+    "price": 0.08929336698857107,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Nimiq",
+    "symbol": "NIM",
+    "price": 0.0023986264831515206,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "SOVRUN",
+    "symbol": "SOVRN",
+    "price": 0.05103317545817857,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Inverse Finance",
+    "symbol": "INV",
+    "price": 51.036036646632915,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Multibit",
+    "symbol": "MUBI",
+    "price": 0.03176049159012904,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "BIAO",
+    "symbol": "BIAO",
+    "price": 0.030056145683485056,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "PAW",
+    "symbol": "PAW",
+    "price": 3.1436843806850874e-8,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Thala",
+    "symbol": "THL",
+    "price": 0.6053805002282521,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "TOPGOAL",
+    "symbol": "GOAL",
+    "price": 0.054287455184257274,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Swarm Markets",
+    "symbol": "SMT",
+    "price": 0.3488107570919752,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Global Dollar",
+    "symbol": "USDG",
+    "price": 1.0003987734527586,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Mango",
+    "symbol": "MNGO",
+    "price": 0.025718450528573994,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "SIX",
+    "symbol": "SIX",
+    "price": 0.034126441727447956,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Scallop",
+    "symbol": "SCA",
+    "price": 0.4144686968843541,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Reserve Dollar",
+    "symbol": "RSV",
+    "price": 0.9990188927280714,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Sperax",
+    "symbol": "SPA",
+    "price": 0.016989005049491662,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Billy",
+    "symbol": "BILLY",
+    "price": 0.030365758180743923,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "NuNet",
+    "symbol": "NTX",
+    "price": 0.05632759574364213,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "r/CryptoCurrency Moons",
+    "symbol": "MOON",
+    "price": 0.2654622637294786,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "TRVL (Dtravel)",
+    "symbol": "TRVL",
+    "price": 0.07723576045223843,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Skibidi Toilet",
+    "symbol": "SKBDI",
+    "price": 0.4007728355649264,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "AXEL",
+    "symbol": "AXEL",
+    "price": 0.09907928682676934,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Neon EVM",
+    "symbol": "NEON",
+    "price": 0.48403272368141703,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Dolan Duck",
+    "symbol": "DOLAN",
+    "price": 0.28407229491918,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Aura Finance",
+    "symbol": "AURA",
+    "price": 0.46471479149276507,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Electronic USD",
+    "symbol": "eUSD",
+    "price": 1.0016535499602623,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Tribal Finance",
+    "symbol": "TRIBL",
+    "price": 0.3465699627114896,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Artyfact",
+    "symbol": "ARTY",
+    "price": 1.402391294847054,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Swarm",
+    "symbol": "BZZ",
+    "price": 0.5182798804503319,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Law Blocks (AI)",
+    "symbol": "LBT",
+    "price": 0.11065763244603855,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Vectorspace AI",
+    "symbol": "VXV",
+    "price": 0.5439291525470877,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "SaitaChain Coin",
+    "symbol": "STC",
+    "price": 0.0005994807250792246,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "NATIX Network",
+    "symbol": "NATIX",
+    "price": 0.0016660690899713275,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Fulcrom Finance",
+    "symbol": "FUL",
+    "price": 0.0134574720157027,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Oho",
+    "symbol": "OHO",
+    "price": 0.0010977918211485724,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ELYSIA",
+    "symbol": "EL",
+    "price": 0.005754939689315414,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "HyperGPT",
+    "symbol": "HGPT",
+    "price": 0.04034344946936944,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Helium IOT",
+    "symbol": "IOT",
+    "price": 0.0012976473818085378,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "BFG Token",
+    "symbol": "BFG",
+    "price": 0.023232855278889283,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "MCOIN",
+    "symbol": "MCOIN",
+    "price": 0.1472502598348598,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "SHPING",
+    "symbol": "SHPING",
+    "price": 0.011304301086278458,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Hasbulla's Cat",
+    "symbol": "BARSIK",
+    "price": 0.02567353017181906,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "pSTAKE Finance",
+    "symbol": "PSTAKE",
+    "price": 0.058121808950536424,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "MON",
+    "symbol": "MON",
+    "price": 0.11996752847198464,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Kava Lend",
+    "symbol": "HARD",
+    "price": 0.1879785710989087,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Santos FC Fan Token",
+    "symbol": "SANTOS",
+    "price": 4.071039052072636,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "AirSwap",
+    "symbol": "AST",
+    "price": 0.14676255703393581,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Koinos",
+    "symbol": "KOIN",
+    "price": 0.2996297264739359,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Partisia Blockchain",
+    "symbol": "MPC",
+    "price": 0.10036125923937558,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Pandora",
+    "symbol": "PANDORA",
+    "price": 2492.5657959224573,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Stratos",
+    "symbol": "STOS",
+    "price": 0.6389474480484425,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Blendr Network",
+    "symbol": "BLENDR",
+    "price": 0.6135749550888179,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Volt Inu",
+    "symbol": "VOLT",
+    "price": 4.514683036646789e-7,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "DecideAI",
+    "symbol": "DCD",
+    "price": 0.05056718321744482,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Dragonchain",
+    "symbol": "DRGN",
+    "price": 0.0663079133861608,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Kryll",
+    "symbol": "KRL",
+    "price": 0.6654645725055137,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "QORPO WORLD",
+    "symbol": "QORPO",
+    "price": 0.2358586006436351,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Vara Network",
+    "symbol": "VARA",
+    "price": 0.026855875135171316,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Shuffle",
+    "symbol": "SHFL",
+    "price": 0.23598270045026673,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "AstraAI",
+    "symbol": "ASTRA",
+    "price": 2.745173820636801,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Katana Inu",
+    "symbol": "KATA",
+    "price": 0.0008853754226941065,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Paris Saint-Germain Fan Token",
+    "symbol": "PSG",
+    "price": 3.4649505816126247,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Bloktopia",
+    "symbol": "BLOK",
+    "price": 0.0009695877272926056,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Philtoken",
+    "symbol": "PHIL",
+    "price": 0.023903505173643924,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Cook Finance",
+    "symbol": "COOK",
+    "price": 0.027358004271583067,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Sovryn",
+    "symbol": "SOV",
+    "price": 0.4161260549194862,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "trac (Ordinals)",
+    "symbol": "TRAC",
+    "price": 1.1366081145649793,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "DexCheck AI",
+    "symbol": "DCK",
+    "price": 0.03510545731544352,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Gaimin",
+    "symbol": "GMRX",
+    "price": 0.000970808964498902,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Basenji",
+    "symbol": "BENJI",
+    "price": 0.02567959267063746,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "SpaceN",
+    "symbol": "SN",
+    "price": 0.5888521929011723,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ZTX",
+    "symbol": "ZTX",
+    "price": 0.005581699530622817,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Firo",
+    "symbol": "FIRO",
+    "price": 1.6151203919799244,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Chainge",
+    "symbol": "XCHNG",
+    "price": 0.048976541109949305,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Morpheus.Network",
+    "symbol": "MNW",
+    "price": 0.49190156273083646,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Solvex Network",
+    "symbol": "SOLVEX",
+    "price": 0.46664662275933033,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "WhiteCoin",
+    "symbol": "XWC",
+    "price": 0.030145051629038667,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Galeon",
+    "symbol": "GALEON",
+    "price": 0.03193172266599427,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Veno Finance",
+    "symbol": "VNO",
+    "price": 0.048208531707520735,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Sentinel",
+    "symbol": "DVPN",
+    "price": 0.0010995367268489308,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "UFO Gaming",
+    "symbol": "UFO",
+    "price": 8.780856017185005e-7,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "MonaCoin",
+    "symbol": "MONA",
+    "price": 0.3432812562119649,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "iMe Lab",
+    "symbol": "LIME",
+    "price": 0.051887828809740064,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "FC Barcelona Fan Token",
+    "symbol": "BAR",
+    "price": 2.455837656401474,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "DeepBrain Chain",
+    "symbol": "DBC",
+    "price": 0.004084627304861984,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Colony",
+    "symbol": "CLY",
+    "price": 0.20121499926182942,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Atlas Navi",
+    "symbol": "NAVI",
+    "price": 0.20119118871645736,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "OG Fan Token",
+    "symbol": "OG",
+    "price": 5.34299242258516,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "BOB (ETH)",
+    "symbol": "BOB",
+    "price": 0.00003179847554251691,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Cryptex Finance",
+    "symbol": "CTX",
+    "price": 3.1518551972109226,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "THE BALKAN DWARF",
+    "symbol": "KEKEC",
+    "price": 0.0005584186660264538,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Hot Doge",
+    "symbol": "HOTDOGE",
+    "price": 0.021463478715130567,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "DMAIL Network",
+    "symbol": "DMAIL",
+    "price": 0.2953712817842543,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Moonchain",
+    "symbol": "MXC",
+    "price": 0.0078820646076543,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Free Palestine",
+    "symbol": "YAFA",
+    "price": 0.022165097955450585,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "LOBO•THE•WOLF•PUP",
+    "symbol": "LOBO",
+    "price": 0.0013085488051256325,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Phantasma",
+    "symbol": "SOUL",
+    "price": 0.17246967819990028,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Commune AI",
+    "symbol": "COMAI",
+    "price": 0.21218097078753856,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "CatSlap",
+    "symbol": "SLAP",
+    "price": 0.004874805319712212,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "NikolAI",
+    "symbol": "NIKO",
+    "price": 0.02127051834003217,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Creo Engine",
+    "symbol": "CREO",
+    "price": 0.06059044251947954,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Isiklar Coin",
+    "symbol": "ISIKC",
+    "price": 0.2113354150370229,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "BUBCAT",
+    "symbol": "BUB",
+    "price": 0.009432495237878973,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Blockasset",
+    "symbol": "BLOCK",
+    "price": 0.12164821154545778,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Alitas",
+    "symbol": "ALT",
+    "price": 0.17447830461395114,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Hatom",
+    "symbol": "HTM",
+    "price": 1.251049765072009,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Meter Governance",
+    "symbol": "MTRG",
+    "price": 0.7576694800641102,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Kaon",
+    "symbol": "AKRO",
+    "price": 0.004654543662713631,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "XRP Healthcare",
+    "symbol": "XRPH",
+    "price": 0.28883491827829183,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Tectonic",
+    "symbol": "TONIC",
+    "price": 8.22318962423656e-8,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "AIPAD",
+    "symbol": "AIPAD",
+    "price": 0.1058142166221591,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "DFI.Money",
+    "symbol": "YFII",
+    "price": 523.0695635222175,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "imgnAI",
+    "symbol": "IMGNAI",
+    "price": 0.025967893020385206,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "XCAD Network",
+    "symbol": "XCAD",
+    "price": 0.42280401116946476,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Æternity",
+    "symbol": "AE",
+    "price": 0.05221870399644711,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Pluton",
+    "symbol": "PLU",
+    "price": 2.0686313858224086,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "ParaSwap",
+    "symbol": "PSP",
+    "price": 0.026676272751653185,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "Kleros",
+    "symbol": "PNK",
+    "price": 0.025532408479069228,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "KYVE Network",
+    "symbol": "KYVE",
+    "price": 0.025939292533817944,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Openfabric AI",
+    "symbol": "OFN",
+    "price": 0.15677762015295374,
+    "last_updated": "2024-12-12T22:07:00.000Z"
+  },
+  {
+    "name": "DRIFE",
+    "symbol": "$DRF",
+    "price": 0.02129043893550272,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Nine Chronicles",
+    "symbol": "WNCG",
+    "price": 0.0449798534313189,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  },
+  {
+    "name": "Apeiron",
+    "symbol": "APRS",
+    "price": 0.19212689664335858,
+    "last_updated": "2024-12-12T22:08:00.000Z"
+  }
+]
