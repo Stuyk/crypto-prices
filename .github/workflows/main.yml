@@ -29,7 +29,9 @@ jobs:
       run: echo ${{ steps.date.outputs.date }}
 
     - name: Install dependencies with pnpm
-      run: pnpm install --frozen-lockfile
+      run: |
+        corepack enable
+        pnpm install --frozen-lockfile
        
     - name: Run script to fetch prices
       env:
