@@ -26,7 +26,7 @@ jobs:
     - name: Run script to fetch prices
       env:
         CMC_API_KEY: ${{ secrets.CMC_API_KEY }}
-      run: node fetchCryptoPrices.js
+      run: node src/index.js
 
     - name: Commit and push crypto_prices.json
       uses: stefanzweifel/git-auto-commit-action@v4
