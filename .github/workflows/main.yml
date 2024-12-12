@@ -1,0 +1,56 @@
+name: Fetch Crypto Prices and Create Release
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allow manual trigger of the workflow
+
+jobs:
+  fetch-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+
+    - name: Install dependencies with pnpm
+      run: |
+        corepack enable
+        pnpm install
+
+    - name: Run script to fetch prices
+      env:
+        CMC_API_KEY: ${{ secrets.CMC_API_KEY }}
+      run: node fetchCryptoPrices.js
+
+    - name: Commit and push crypto_prices.json
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Update crypto prices for $(date -u '+%Y-%m-%d %H:%M:%S')"
+        file_pattern: crypto_prices.json
+
+    - name: Create Release
+      id: create_release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: "$(date -u '+%Y-%m-%d-%H')"
+        release_name: "Crypto Prices - $(date -u '+%Y-%m-%d %H:%M')"
+        draft: false
+        prerelease: false
+
+    - name: Upload crypto_prices.json to Release
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }}
+        asset_path: ./crypto_prices.json
+        asset_name: crypto_prices.json
+        asset_content_type: application/json
