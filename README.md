@@ -1,5 +1,12 @@
 # Crypto Prices
 
+> [!IMPORTANT]  
+> This was archived because this is somewhat of an abuse of GitHub's repository terms of service, and it's better to just stop this before it gets out of control.
+>
+> It was fun while it lasted.
+>
+> This repository can still be used to harvest information on a daily basis, and post it somewhere.
+
 Literally just pushes prices for historical reasons to this GitHub repository.
 
 Every hour it fetches pricing from a source. 
